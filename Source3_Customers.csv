@@ -1,0 +1,301 @@
+Customer_ID,Customer_Name,Segment,Email,Phone,City,Region,Join_Date,Last_Purchase,Loyalty_Points,Preferred_Category,Is_Active
+CUST-1000,Chloe Walker,Home Office,chloe.walker48@email.com,07976573756,Colchester,East,2020-01-13,2024-06-19,3205,Home & Garden,No
+CUST-1001,Thomas Evans,Consumer,thomas.evans69@email.com,07898551977,Leeds,North,2020-12-12,2023-10-17,3315,Clothing,Yes
+CUST-1002,Hannah Brown,Consumer,hannah.brown53@email.com,07496884107,Bristol,West,2020-06-27,2024-04-12,2757,Sports,No
+CUST-1003,Hannah Jones,Consumer,hannah.jones63@email.com,07262622042,Cardiff,West,2022-02-12,2024-11-27,4053,Clothing,Yes
+CUST-1004,Andrew Robinson,Corporate,andrew.robinson90@email.com,07542531218,Exeter,West,2020-06-02,2023-09-23,2888,Sports,Yes
+CUST-1005,James Davies,Consumer,james.davies92@email.com,07775877025,Exeter,West,2020-11-19,2024-02-09,1041,Clothing,Yes
+CUST-1006,Robert Wood,Home Office,robert.wood34@email.com,07708191585,Leicester,Central,2020-12-22,2023-10-01,3730,Sports,Yes
+CUST-1007,Mia Taylor,Home Office,mia.taylor10@email.com,07126706377,Coventry,Central,2021-09-08,2024-06-21,4877,Home & Garden,No
+CUST-1008,Grace Wilson,Home Office,grace.wilson98@email.com,07117614963,Birmingham,Central,2021-02-21,2024-06-15,102,Clothing,Yes
+CUST-1009,Thomas Robinson,Corporate,thomas.robinson25@email.com,07944360514,Newcastle,North,2022-09-16,2023-01-10,329,Food & Grocery,Yes
+CUST-1010,Grace Evans,Corporate,grace.evans73@email.com,07512823222,Liverpool,North,2022-02-28,2023-02-28,1497,Home & Garden,Yes
+CUST-1011,Michael Williams,Consumer,michael.williams70@email.com,07951716886,Bath,West,2020-03-28,2023-07-18,3611,Home & Garden,No
+CUST-1012,James Thomas,Corporate,james.thomas13@email.com,07498177989,Oxford,South,2020-04-22,2023-10-31,3244,Sports,Yes
+CUST-1013,Thomas Evans,Home Office,thomas.evans45@email.com,07298701265,London,South,2021-11-02,2023-10-18,3435,Electronics,Yes
+CUST-1014,James White,Home Office,james.white62@email.com,07368812972,Colchester,East,2020-01-13,2023-11-19,4773,Food & Grocery,No
+CUST-1015,Chris Jones,Home Office,chris.jones32@email.com,07613582136,Colchester,East,2020-12-12,2023-11-04,545,Clothing,Yes
+CUST-1016,Sophie Johnson,Home Office,sophie.johnson35@email.com,07444925691,Bath,West,2021-07-30,2023-09-27,4435,Food & Grocery,Yes
+CUST-1017,Daniel Jones,Home Office,daniel.jones77@email.com,07430238651,Peterborough,East,2020-09-12,2024-08-28,3242,Electronics,Yes
+CUST-1018,Joshua Davies,Home Office,joshua.davies82@email.com,07511545225,Peterborough,East,2021-08-27,2024-01-12,1870,Sports,Yes
+CUST-1019,Emma Brown,Corporate,emma.brown26@email.com,07950559130,Newcastle,North,2022-11-24,2023-03-27,4795,Sports,Yes
+CUST-1020,Sophie Evans,Corporate,sophie.evans51@email.com,07664759843,Sheffield,North,2021-02-10,2024-07-27,2047,Sports,Yes
+CUST-1021,Sarah Taylor,Consumer,sarah.taylor91@email.com,07348383607,Bristol,West,2021-11-05,2024-11-23,1673,Electronics,No
+CUST-1022,Olivia Evans,Consumer,olivia.evans16@email.com,07973350208,Oxford,South,2021-10-20,2024-02-19,2145,Clothing,Yes
+CUST-1023,Michael Davies,Corporate,michael.davies40@email.com,07731235029,Peterborough,East,2020-02-03,2023-11-27,564,Clothing,No
+CUST-1024,Joshua Davies,Corporate,joshua.davies99@email.com,07236926263,Sheffield,North,2022-12-22,2024-09-18,4187,Sports,Yes
+CUST-1025,Alice Walker,Corporate,alice.walker98@email.com,07338224983,Southampton,South,2021-09-26,2024-12-05,410,Sports,No
+CUST-1026,Chloe Smith,Home Office,chloe.smith50@email.com,07141675823,Birmingham,Central,2020-01-31,2024-11-20,4702,Sports,No
+CUST-1027,Sophie Johnson,Corporate,sophie.johnson84@email.com,07604174458,Ipswich,East,2021-04-07,2023-10-12,3329,Electronics,Yes
+CUST-1028,Sophie Walker,Home Office,sophie.walker11@email.com,07117886799,Cardiff,West,2020-02-08,2024-02-22,645,Clothing,Yes
+CUST-1029,Olivia Evans,Corporate,olivia.evans64@email.com,07263548029,London,South,2020-02-14,2023-08-22,4126,Home & Garden,No
+CUST-1030,Grace Williams,Consumer,grace.williams26@email.com,07450130040,London,South,2022-04-21,2024-08-31,1697,Home & Garden,Yes
+CUST-1031,David White,Home Office,david.white2@email.com,07381243272,Sheffield,North,2021-12-04,2024-06-23,2390,Food & Grocery,Yes
+CUST-1032,Mia White,Consumer,mia.white10@email.com,07932168361,Manchester,North,2021-04-01,2024-08-21,2559,Clothing,No
+CUST-1033,Alice White,Consumer,alice.white96@email.com,07797377226,Bath,West,2022-07-13,2023-08-28,3167,Sports,No
+CUST-1034,Joshua Brown,Consumer,joshua.brown95@email.com,07599318909,Plymouth,West,2021-03-01,2023-02-25,3865,Electronics,Yes
+CUST-1035,Chloe Roberts,Consumer,chloe.roberts65@email.com,07779458259,Nottingham,Central,2022-06-04,2023-10-03,138,Food & Grocery,Yes
+CUST-1036,James Roberts,Corporate,james.roberts33@email.com,07267685111,Peterborough,East,2021-06-28,2023-12-12,2013,Home & Garden,No
+CUST-1037,Emma Jones,Home Office,emma.jones6@email.com,07456913847,Cambridge,East,2021-06-29,2023-08-28,2306,Sports,Yes
+CUST-1038,Joshua Wilson,Home Office,joshua.wilson98@email.com,07949546246,Derby,Central,2020-01-14,2023-05-03,405,Food & Grocery,Yes
+CUST-1039,Sophie Clark,Home Office,sophie.clark94@email.com,07704679296,Exeter,West,2021-04-14,2024-11-06,2954,Sports,No
+CUST-1040,James Thomas,Consumer,james.thomas76@email.com,07627351312,Bristol,West,2021-01-06,2024-05-05,4933,Sports,Yes
+CUST-1041,Ryan Roberts,Consumer,ryan.roberts98@email.com,07626776698,Colchester,East,2021-02-07,2024-11-29,67,Home & Garden,Yes
+CUST-1042,Chris Wood,Corporate,chris.wood64@email.com,07614142703,Cardiff,West,2020-06-11,2024-12-06,2110,Sports,Yes
+CUST-1043,Chris Lewis,Consumer,chris.lewis48@email.com,07627295438,Ipswich,East,2020-09-25,2024-08-22,2146,Food & Grocery,Yes
+CUST-1044,James Martin,Corporate,james.martin74@email.com,07277201413,Colchester,East,2022-07-06,2023-09-23,4150,Food & Grocery,Yes
+CUST-1045,Alice White,Home Office,alice.white52@email.com,07926730600,Manchester,North,2022-09-11,2024-02-03,2105,Sports,Yes
+CUST-1046,Michael Walker,Consumer,michael.walker34@email.com,07206794062,Leicester,Central,2021-10-22,2024-05-25,4087,Food & Grocery,No
+CUST-1047,James Johnson,Consumer,james.johnson17@email.com,07521286905,Norwich,East,2022-04-01,2024-02-26,2265,Sports,Yes
+CUST-1048,Robert Thompson,Consumer,robert.thompson43@email.com,07592678439,Leeds,North,2022-04-28,2023-12-12,3142,Sports,No
+CUST-1049,Mia Smith,Consumer,mia.smith15@email.com,07753809193,Cardiff,West,2021-03-24,2023-05-29,1363,Home & Garden,Yes
+CUST-1050,Michael Lewis,Home Office,michael.lewis74@email.com,07619999327,Nottingham,Central,2021-07-16,2024-05-09,2444,Home & Garden,Yes
+CUST-1051,Michael Jackson,Consumer,michael.jackson89@email.com,07262604214,Leicester,Central,2022-04-21,2024-06-09,3432,Clothing,Yes
+CUST-1052,Sophie Thompson,Corporate,sophie.thompson76@email.com,07528111807,Coventry,Central,2020-08-12,2023-01-29,1346,Clothing,Yes
+CUST-1053,James Thomas,Consumer,james.thomas20@email.com,07602924851,Derby,Central,2022-07-01,2024-12-26,1502,Clothing,Yes
+CUST-1054,Robert Martin,Corporate,robert.martin18@email.com,07452701193,Portsmouth,South,2020-07-19,2023-04-16,3199,Food & Grocery,No
+CUST-1055,Alice Williams,Home Office,alice.williams57@email.com,07552588331,Liverpool,North,2020-08-31,2023-10-02,976,Sports,Yes
+CUST-1056,Hannah Evans,Home Office,hannah.evans52@email.com,07245782300,Newcastle,North,2022-12-08,2023-02-21,3806,Food & Grocery,No
+CUST-1057,Joshua Clark,Consumer,joshua.clark72@email.com,07336819627,Manchester,North,2020-05-14,2024-08-02,2297,Home & Garden,Yes
+CUST-1058,Sarah White,Home Office,sarah.white72@email.com,07850668518,Portsmouth,South,2021-04-05,2023-12-07,4641,Sports,Yes
+CUST-1059,Laura Jones,Home Office,laura.jones38@email.com,07262988368,Southampton,South,2022-11-08,2023-11-19,11,Home & Garden,Yes
+CUST-1060,Olivia White,Corporate,olivia.white86@email.com,07447554536,Colchester,East,2022-10-11,2024-02-02,3696,Home & Garden,Yes
+CUST-1061,Mia Martin,Corporate,mia.martin44@email.com,07760322860,Nottingham,Central,2022-11-24,2023-03-20,4847,Clothing,Yes
+CUST-1062,Daniel Thompson,Consumer,daniel.thompson51@email.com,07774417756,Leeds,North,2021-02-21,2023-07-12,425,Food & Grocery,Yes
+CUST-1063,Laura Roberts,Consumer,laura.roberts67@email.com,07403247297,Leicester,Central,2020-05-03,2023-05-30,3830,Clothing,Yes
+CUST-1064,Emma Clark,Corporate,emma.clark61@email.com,07784631462,Derby,Central,2020-09-18,2023-04-06,3506,Home & Garden,Yes
+CUST-1065,Ryan Robinson,Consumer,ryan.robinson41@email.com,07251807778,Coventry,Central,2020-06-11,2023-06-21,4182,Sports,Yes
+CUST-1066,Ryan Jones,Corporate,ryan.jones55@email.com,07870490717,Manchester,North,2022-02-10,2023-06-11,1246,Electronics,Yes
+CUST-1067,Thomas Brown,Consumer,thomas.brown60@email.com,07524938852,Southampton,South,2021-05-31,2023-10-25,1255,Food & Grocery,Yes
+CUST-1068,Mia Lewis,Corporate,mia.lewis83@email.com,07752540973,Sheffield,North,2021-06-17,2024-01-11,4058,Electronics,Yes
+CUST-1069,Andrew Jones,Home Office,andrew.jones48@email.com,07833482801,Bristol,West,2020-05-17,2023-02-22,3961,Home & Garden,Yes
+CUST-1070,David Johnson,Corporate,david.johnson89@email.com,07310581225,Derby,Central,2022-07-16,2024-07-22,761,Electronics,No
+CUST-1071,Alice Walker,Consumer,alice.walker92@email.com,07836595383,Liverpool,North,2020-08-06,2024-12-05,4476,Electronics,No
+CUST-1072,Michael Lewis,Home Office,michael.lewis55@email.com,07242347305,Colchester,East,2020-09-01,2024-06-25,4931,Clothing,No
+CUST-1073,Sarah White,Home Office,sarah.white47@email.com,07588182874,Leicester,Central,2022-08-06,2023-03-11,2823,Sports,Yes
+CUST-1074,Sarah Smith,Home Office,sarah.smith9@email.com,07907699027,Manchester,North,2021-06-13,2024-05-13,2387,Electronics,No
+CUST-1075,Joshua Johnson,Consumer,joshua.johnson57@email.com,07104668255,Peterborough,East,2020-03-19,2023-02-26,3415,Electronics,Yes
+CUST-1076,Ryan Williams,Corporate,ryan.williams82@email.com,07400281760,Cardiff,West,2020-04-20,2023-05-26,1779,Sports,Yes
+CUST-1077,David Wilson,Corporate,david.wilson1@email.com,07195252702,Plymouth,West,2020-08-14,2023-10-09,3225,Electronics,Yes
+CUST-1078,Hannah Brown,Home Office,hannah.brown21@email.com,07339506557,Cardiff,West,2022-04-05,2024-02-02,1097,Electronics,Yes
+CUST-1079,David Taylor,Corporate,david.taylor56@email.com,07334132645,Southampton,South,2021-05-30,2024-06-05,1206,Food & Grocery,No
+CUST-1080,Emma Williams,Consumer,emma.williams76@email.com,07500820994,Oxford,South,2020-02-06,2023-07-26,4265,Food & Grocery,Yes
+CUST-1081,Ryan Williams,Home Office,ryan.williams24@email.com,07789549073,Southampton,South,2021-01-27,2023-12-24,2044,Sports,Yes
+CUST-1082,Joshua White,Corporate,joshua.white88@email.com,07734230616,Bath,West,2020-10-16,2023-11-01,4979,Food & Grocery,No
+CUST-1083,Daniel Evans,Consumer,daniel.evans26@email.com,07880236447,Birmingham,Central,2020-09-03,2024-05-18,4535,Food & Grocery,Yes
+CUST-1084,Olivia Wood,Consumer,olivia.wood27@email.com,07642595214,Oxford,South,2021-10-16,2023-11-10,405,Home & Garden,Yes
+CUST-1085,James Johnson,Corporate,james.johnson46@email.com,07296291778,Ipswich,East,2021-08-31,2024-05-12,2416,Electronics,Yes
+CUST-1086,Sarah Thompson,Home Office,sarah.thompson83@email.com,07406712232,Bath,West,2020-03-11,2023-06-11,960,Home & Garden,Yes
+CUST-1087,Emma Thompson,Home Office,emma.thompson54@email.com,07607887331,Sheffield,North,2022-07-29,2024-06-10,2918,Clothing,No
+CUST-1088,Chris Johnson,Corporate,chris.johnson78@email.com,07388246477,Manchester,North,2021-09-14,2023-12-17,4065,Home & Garden,Yes
+CUST-1089,Andrew Evans,Home Office,andrew.evans74@email.com,07994462057,Cardiff,West,2020-12-06,2024-02-11,1647,Sports,Yes
+CUST-1090,Chris Clark,Consumer,chris.clark21@email.com,07486720315,Ipswich,East,2022-09-02,2023-05-04,2576,Electronics,Yes
+CUST-1091,Hannah Davies,Home Office,hannah.davies13@email.com,07895250776,Portsmouth,South,2020-04-05,2023-03-03,2833,Food & Grocery,Yes
+CUST-1092,Sarah Brown,Home Office,sarah.brown74@email.com,07463347547,Southampton,South,2022-09-19,2023-01-18,4158,Food & Grocery,No
+CUST-1093,Chris Jones,Corporate,chris.jones35@email.com,07667702650,Sheffield,North,2020-06-05,2023-07-30,3211,Sports,Yes
+CUST-1094,Chloe Walker,Corporate,chloe.walker9@email.com,07106447005,Cardiff,West,2020-09-15,2023-09-27,4681,Food & Grocery,Yes
+CUST-1095,James Roberts,Home Office,james.roberts37@email.com,07126443508,Liverpool,North,2021-09-06,2024-05-11,311,Home & Garden,Yes
+CUST-1096,Chris Jackson,Consumer,chris.jackson32@email.com,07438540222,Colchester,East,2020-01-27,2024-02-23,1320,Sports,Yes
+CUST-1097,James Lewis,Home Office,james.lewis13@email.com,07597945287,Bristol,West,2020-03-22,2023-03-01,859,Food & Grocery,Yes
+CUST-1098,David Martin,Corporate,david.martin96@email.com,07368106377,Portsmouth,South,2020-07-15,2024-04-17,4571,Food & Grocery,Yes
+CUST-1099,Andrew Lewis,Home Office,andrew.lewis93@email.com,07220480150,Bath,West,2021-03-10,2023-03-18,2379,Home & Garden,Yes
+CUST-1100,Daniel Wilson,Home Office,daniel.wilson69@email.com,07340504482,Exeter,West,2022-12-18,2023-05-14,3783,Electronics,Yes
+CUST-1101,Chris Taylor,Consumer,chris.taylor99@email.com,07665820682,Nottingham,Central,2022-04-30,2024-07-18,4023,Home & Garden,No
+CUST-1102,Grace Martin,Home Office,grace.martin88@email.com,07298154508,Liverpool,North,2022-07-30,2023-07-11,3597,Home & Garden,Yes
+CUST-1103,Mia Taylor,Home Office,mia.taylor33@email.com,07202879385,Bath,West,2022-02-16,2023-11-21,1610,Electronics,Yes
+CUST-1104,Olivia Davies,Corporate,olivia.davies52@email.com,07282122562,Coventry,Central,2020-02-14,2024-02-22,3441,Sports,No
+CUST-1105,Joshua Wilson,Home Office,joshua.wilson81@email.com,07412848113,Oxford,South,2022-05-03,2023-03-28,674,Electronics,Yes
+CUST-1106,Hannah Walker,Home Office,hannah.walker1@email.com,07280556743,Coventry,Central,2021-02-16,2024-06-07,2556,Food & Grocery,Yes
+CUST-1107,Sophie Williams,Home Office,sophie.williams21@email.com,07273879513,Birmingham,Central,2021-12-10,2023-04-20,3529,Home & Garden,Yes
+CUST-1108,Olivia Clark,Corporate,olivia.clark68@email.com,07301544827,Plymouth,West,2021-01-12,2023-12-20,1917,Sports,Yes
+CUST-1109,James Johnson,Corporate,james.johnson18@email.com,07535150988,Brighton,South,2021-03-26,2023-06-02,333,Electronics,Yes
+CUST-1110,Olivia Wilson,Consumer,olivia.wilson68@email.com,07638964866,Birmingham,Central,2020-02-03,2024-05-06,4599,Electronics,Yes
+CUST-1111,Michael Brown,Consumer,michael.brown96@email.com,07893894622,Brighton,South,2021-06-24,2024-10-02,3402,Home & Garden,Yes
+CUST-1112,Michael Jones,Corporate,michael.jones43@email.com,07282149391,Manchester,North,2022-06-26,2024-10-16,2850,Electronics,Yes
+CUST-1113,Michael Williams,Corporate,michael.williams65@email.com,07128635453,Derby,Central,2022-08-03,2023-04-30,3043,Electronics,Yes
+CUST-1114,James Roberts,Consumer,james.roberts93@email.com,07974460266,Newcastle,North,2020-08-07,2023-06-19,488,Electronics,Yes
+CUST-1115,Andrew Johnson,Consumer,andrew.johnson51@email.com,07578941047,Oxford,South,2020-05-02,2024-06-17,340,Clothing,Yes
+CUST-1116,Sophie Martin,Home Office,sophie.martin76@email.com,07196398057,Nottingham,Central,2020-01-17,2024-03-25,4957,Clothing,No
+CUST-1117,Michael Jones,Consumer,michael.jones39@email.com,07225368247,Liverpool,North,2021-07-18,2024-01-14,3124,Food & Grocery,Yes
+CUST-1118,Mia Williams,Corporate,mia.williams72@email.com,07332932332,Exeter,West,2020-03-27,2024-08-02,2423,Food & Grocery,Yes
+CUST-1119,Michael Davies,Consumer,michael.davies54@email.com,07862293848,Colchester,East,2022-08-15,2023-12-10,2467,Sports,Yes
+CUST-1120,Sophie Evans,Corporate,sophie.evans2@email.com,07924911121,Cambridge,East,2021-09-22,2024-05-02,4728,Electronics,No
+CUST-1121,Alice Robinson,Corporate,alice.robinson35@email.com,07963136797,Coventry,Central,2021-01-27,2024-10-24,3023,Food & Grocery,Yes
+CUST-1122,Michael Taylor,Corporate,michael.taylor61@email.com,07186593771,Derby,Central,2022-01-30,2023-12-25,191,Sports,No
+CUST-1123,Mia Robinson,Consumer,mia.robinson8@email.com,07971951081,Peterborough,East,2020-09-26,2024-04-17,3194,Electronics,Yes
+CUST-1124,Sarah Wilson,Consumer,sarah.wilson91@email.com,07851465861,Cambridge,East,2020-02-12,2024-04-29,1917,Food & Grocery,No
+CUST-1125,Joshua Williams,Corporate,joshua.williams69@email.com,07121109818,Coventry,Central,2021-10-21,2024-09-29,3825,Food & Grocery,No
+CUST-1126,Hannah Smith,Corporate,hannah.smith32@email.com,07366848821,Sheffield,North,2020-05-07,2024-06-17,3820,Home & Garden,Yes
+CUST-1127,Laura White,Corporate,laura.white40@email.com,07342899763,Sheffield,North,2020-07-22,2023-09-22,4839,Home & Garden,Yes
+CUST-1128,Olivia Walker,Corporate,olivia.walker99@email.com,07321725862,Bath,West,2022-03-27,2023-06-28,2816,Electronics,Yes
+CUST-1129,Sophie Evans,Home Office,sophie.evans83@email.com,07411183300,Oxford,South,2021-07-26,2024-12-18,2612,Home & Garden,Yes
+CUST-1130,Olivia Wood,Home Office,olivia.wood59@email.com,07191299452,Derby,Central,2022-08-02,2024-04-27,3027,Food & Grocery,No
+CUST-1131,James Jones,Consumer,james.jones15@email.com,07348961944,Sheffield,North,2020-06-14,2023-07-29,4035,Food & Grocery,No
+CUST-1132,Chloe Jackson,Home Office,chloe.jackson68@email.com,07756988473,Liverpool,North,2022-08-02,2024-11-12,4743,Clothing,Yes
+CUST-1133,Sarah Wood,Corporate,sarah.wood71@email.com,07405151006,Liverpool,North,2022-08-24,2023-05-25,424,Food & Grocery,Yes
+CUST-1134,Robert Smith,Home Office,robert.smith50@email.com,07782514008,Cardiff,West,2021-07-10,2024-02-23,30,Home & Garden,Yes
+CUST-1135,Ryan Smith,Home Office,ryan.smith48@email.com,07851264026,Bath,West,2021-01-08,2024-01-08,4141,Food & Grocery,No
+CUST-1136,Grace Thomas,Home Office,grace.thomas2@email.com,07369220630,Portsmouth,South,2020-02-22,2024-03-28,4763,Electronics,Yes
+CUST-1137,Mia Taylor,Consumer,mia.taylor25@email.com,07610697776,Norwich,East,2022-10-12,2024-04-03,3607,Clothing,Yes
+CUST-1138,Robert Wilson,Consumer,robert.wilson87@email.com,07705267978,Birmingham,Central,2021-02-02,2023-02-27,2700,Electronics,No
+CUST-1139,James Thomas,Home Office,james.thomas41@email.com,07146278857,Peterborough,East,2022-12-17,2024-01-17,1672,Electronics,Yes
+CUST-1140,Chris Thompson,Corporate,chris.thompson46@email.com,07153328847,Exeter,West,2020-09-03,2023-12-19,3878,Electronics,Yes
+CUST-1141,Chloe Thomas,Home Office,chloe.thomas20@email.com,07546664045,Manchester,North,2022-11-20,2023-08-15,1185,Electronics,Yes
+CUST-1142,David Taylor,Corporate,david.taylor23@email.com,07149607263,London,South,2021-10-14,2023-05-27,3486,Sports,Yes
+CUST-1143,Andrew Taylor,Home Office,andrew.taylor58@email.com,07244485228,Exeter,West,2022-11-01,2024-03-19,128,Electronics,No
+CUST-1144,Sophie Robinson,Corporate,sophie.robinson92@email.com,07758842456,Nottingham,Central,2021-12-02,2024-06-11,4774,Home & Garden,Yes
+CUST-1145,Alice Taylor,Home Office,alice.taylor72@email.com,07180945659,London,South,2020-08-13,2023-01-09,4042,Food & Grocery,Yes
+CUST-1146,Robert Wood,Consumer,robert.wood76@email.com,07805306681,Leeds,North,2020-05-25,2024-09-25,3357,Sports,Yes
+CUST-1147,Alice White,Home Office,alice.white66@email.com,07916959797,Plymouth,West,2022-11-04,2023-03-29,1965,Sports,No
+CUST-1148,Michael Wood,Corporate,michael.wood44@email.com,07805158010,Sheffield,North,2020-06-07,2023-05-16,3692,Home & Garden,Yes
+CUST-1149,Hannah Taylor,Consumer,hannah.taylor54@email.com,07372161132,Coventry,Central,2022-09-07,2024-07-02,4480,Clothing,Yes
+CUST-1150,Daniel Thomas,Home Office,daniel.thomas67@email.com,07442821206,Ipswich,East,2020-05-05,2023-07-07,2562,Food & Grocery,Yes
+CUST-1151,Andrew Wood,Corporate,andrew.wood56@email.com,07486863116,Liverpool,North,2020-08-09,2024-05-15,2023,Home & Garden,No
+CUST-1152,Daniel White,Corporate,daniel.white98@email.com,07632311693,Birmingham,Central,2020-05-20,2024-07-05,1323,Electronics,Yes
+CUST-1153,Grace Walker,Consumer,grace.walker57@email.com,07103210673,Cardiff,West,2021-11-04,2023-10-24,1003,Clothing,No
+CUST-1154,Olivia White,Consumer,olivia.white18@email.com,07368699884,Derby,Central,2022-07-29,2024-10-25,3645,Sports,Yes
+CUST-1155,Laura Martin,Home Office,laura.martin88@email.com,07490145748,Coventry,Central,2022-10-09,2024-04-30,791,Clothing,Yes
+CUST-1156,Grace Robinson,Corporate,grace.robinson26@email.com,07181229280,Liverpool,North,2020-09-26,2023-09-25,2572,Sports,Yes
+CUST-1157,Thomas Johnson,Corporate,thomas.johnson15@email.com,07808109784,Coventry,Central,2020-10-02,2023-07-04,3296,Food & Grocery,Yes
+CUST-1158,Mia Lewis,Home Office,mia.lewis33@email.com,07133397231,Plymouth,West,2022-05-04,2024-01-10,1504,Food & Grocery,Yes
+CUST-1159,Andrew Thomas,Corporate,andrew.thomas39@email.com,07471535169,Leeds,North,2022-07-13,2023-07-18,4060,Electronics,Yes
+CUST-1160,Laura Jackson,Home Office,laura.jackson39@email.com,07176437120,Leeds,North,2022-07-01,2024-03-18,2881,Sports,Yes
+CUST-1161,Michael Jackson,Home Office,michael.jackson49@email.com,07638353483,Leeds,North,2020-06-19,2023-09-11,4840,Electronics,Yes
+CUST-1162,Ryan Wood,Home Office,ryan.wood23@email.com,07282911905,Coventry,Central,2022-06-05,2024-05-12,133,Sports,Yes
+CUST-1163,Alice Smith,Corporate,alice.smith53@email.com,07631887857,Leeds,North,2021-04-10,2023-07-13,4835,Home & Garden,Yes
+CUST-1164,Chloe Martin,Corporate,chloe.martin62@email.com,07385410771,Coventry,Central,2021-02-25,2024-03-12,4016,Clothing,Yes
+CUST-1165,Andrew Taylor,Corporate,andrew.taylor73@email.com,07878556305,Ipswich,East,2021-11-07,2024-01-10,4424,Home & Garden,No
+CUST-1166,Thomas Jones,Home Office,thomas.jones23@email.com,07656197276,Portsmouth,South,2021-06-17,2023-03-12,3917,Sports,Yes
+CUST-1167,Thomas Clark,Corporate,thomas.clark24@email.com,07761688242,Bristol,West,2021-08-10,2023-10-06,1541,Food & Grocery,No
+CUST-1168,Chris Thompson,Corporate,chris.thompson22@email.com,07698814746,Brighton,South,2020-03-23,2023-01-12,3043,Home & Garden,Yes
+CUST-1169,Olivia Jones,Consumer,olivia.jones12@email.com,07492682564,Bristol,West,2020-03-15,2024-03-27,349,Food & Grocery,Yes
+CUST-1170,Olivia Thomas,Home Office,olivia.thomas82@email.com,07714597013,Bath,West,2020-10-15,2023-09-09,3586,Sports,No
+CUST-1171,David Jackson,Consumer,david.jackson71@email.com,07591835320,Cambridge,East,2021-03-30,2024-08-14,2789,Food & Grocery,Yes
+CUST-1172,Joshua Roberts,Home Office,joshua.roberts97@email.com,07832424879,Colchester,East,2020-08-27,2024-08-20,4200,Clothing,Yes
+CUST-1173,Emma Williams,Consumer,emma.williams30@email.com,07842382703,Exeter,West,2022-12-19,2024-06-18,3287,Sports,Yes
+CUST-1174,Emma Robinson,Corporate,emma.robinson63@email.com,07344636011,Sheffield,North,2021-03-15,2024-07-06,597,Electronics,No
+CUST-1175,James Wood,Home Office,james.wood48@email.com,07137688263,Portsmouth,South,2020-12-10,2023-03-14,1046,Clothing,No
+CUST-1176,Sophie Roberts,Corporate,sophie.roberts50@email.com,07392741409,Sheffield,North,2020-04-04,2023-12-18,4156,Home & Garden,Yes
+CUST-1177,Alice Davies,Home Office,alice.davies2@email.com,07173576360,Sheffield,North,2021-09-25,2023-03-04,2999,Home & Garden,Yes
+CUST-1178,Sophie Johnson,Consumer,sophie.johnson37@email.com,07195258655,Colchester,East,2022-07-10,2024-07-15,3864,Sports,Yes
+CUST-1179,Sophie Evans,Home Office,sophie.evans18@email.com,07777665005,Newcastle,North,2022-12-02,2024-05-21,1955,Food & Grocery,Yes
+CUST-1180,David Wilson,Consumer,david.wilson94@email.com,07182787770,Birmingham,Central,2022-10-25,2024-11-19,4532,Sports,Yes
+CUST-1181,Chloe Thomas,Corporate,chloe.thomas22@email.com,07649862311,Manchester,North,2021-04-02,2023-05-27,2068,Clothing,Yes
+CUST-1182,Thomas Jones,Corporate,thomas.jones61@email.com,07241721622,Portsmouth,South,2021-03-12,2023-11-24,2287,Home & Garden,Yes
+CUST-1183,Olivia Brown,Corporate,olivia.brown62@email.com,07252625894,Peterborough,East,2020-11-18,2024-03-09,2026,Clothing,Yes
+CUST-1184,Olivia Walker,Home Office,olivia.walker28@email.com,07284242752,Cambridge,East,2020-03-31,2024-12-03,1228,Sports,Yes
+CUST-1185,Chloe Lewis,Corporate,chloe.lewis88@email.com,07378804077,Bristol,West,2022-12-16,2023-08-08,586,Sports,Yes
+CUST-1186,Joshua Williams,Home Office,joshua.williams96@email.com,07688844141,Liverpool,North,2022-11-21,2023-03-27,1174,Home & Garden,Yes
+CUST-1187,Olivia Jackson,Corporate,olivia.jackson78@email.com,07604488499,Norwich,East,2022-06-14,2023-08-20,1318,Clothing,Yes
+CUST-1188,Hannah Wilson,Home Office,hannah.wilson71@email.com,07136957364,London,South,2022-09-30,2023-09-26,217,Food & Grocery,Yes
+CUST-1189,Mia Wood,Corporate,mia.wood11@email.com,07382466511,Coventry,Central,2022-06-17,2024-06-30,2814,Home & Garden,Yes
+CUST-1190,Laura Brown,Corporate,laura.brown19@email.com,07538689461,Ipswich,East,2022-08-06,2023-08-16,1541,Clothing,Yes
+CUST-1191,Grace Evans,Home Office,grace.evans46@email.com,07480823158,Southampton,South,2021-02-19,2024-05-11,3665,Clothing,No
+CUST-1192,Michael Wilson,Consumer,michael.wilson50@email.com,07437326055,Leicester,Central,2021-02-05,2023-03-20,932,Clothing,No
+CUST-1193,Thomas Jackson,Corporate,thomas.jackson57@email.com,07135471551,Ipswich,East,2022-02-13,2024-03-31,3913,Electronics,No
+CUST-1194,Hannah Williams,Consumer,hannah.williams30@email.com,07474514675,Newcastle,North,2021-04-01,2023-08-24,1367,Home & Garden,Yes
+CUST-1195,Daniel Johnson,Consumer,daniel.johnson91@email.com,07847354563,Manchester,North,2021-09-16,2023-04-26,2133,Electronics,Yes
+CUST-1196,Daniel Brown,Home Office,daniel.brown84@email.com,07231238724,Portsmouth,South,2020-02-18,2024-11-08,262,Electronics,No
+CUST-1197,Olivia Brown,Corporate,olivia.brown69@email.com,07503760040,Oxford,South,2022-05-30,2023-02-10,4557,Sports,No
+CUST-1198,Chloe Smith,Home Office,chloe.smith70@email.com,07517941378,London,South,2022-04-26,2023-10-18,1870,Food & Grocery,No
+CUST-1199,Grace Taylor,Home Office,grace.taylor98@email.com,07439702043,Peterborough,East,2020-12-12,2024-10-01,662,Electronics,Yes
+CUST-1200,Joshua Roberts,Consumer,joshua.roberts41@email.com,07114955144,Oxford,South,2021-03-01,2024-06-22,4657,Clothing,Yes
+CUST-1201,Daniel Brown,Corporate,daniel.brown65@email.com,07862515562,Exeter,West,2022-03-06,2024-09-13,1565,Clothing,Yes
+CUST-1202,James Walker,Consumer,james.walker22@email.com,07342729697,Leeds,North,2021-10-23,2023-07-21,3211,Food & Grocery,Yes
+CUST-1203,Thomas Walker,Consumer,thomas.walker10@email.com,07447197665,Liverpool,North,2021-09-25,2024-11-29,3156,Home & Garden,Yes
+CUST-1204,Hannah Brown,Corporate,hannah.brown48@email.com,07709595348,Exeter,West,2021-01-27,2024-09-28,4599,Clothing,No
+CUST-1205,Sarah White,Corporate,sarah.white59@email.com,07103308781,Birmingham,Central,2020-01-31,2023-01-04,1534,Clothing,No
+CUST-1206,Joshua White,Home Office,joshua.white25@email.com,07676184796,Manchester,North,2022-12-24,2023-11-10,1648,Home & Garden,No
+CUST-1207,James Lewis,Home Office,james.lewis68@email.com,07760791787,London,South,2021-03-11,2024-07-29,4918,Clothing,Yes
+CUST-1208,James Roberts,Home Office,james.roberts19@email.com,07343873466,Oxford,South,2021-07-11,2023-06-15,3448,Electronics,No
+CUST-1209,James Jackson,Home Office,james.jackson72@email.com,07738761817,Manchester,North,2022-10-04,2023-06-01,1694,Food & Grocery,Yes
+CUST-1210,Emma Jones,Consumer,emma.jones1@email.com,07524149397,Leeds,North,2020-07-18,2024-01-06,4911,Sports,Yes
+CUST-1211,James Roberts,Consumer,james.roberts75@email.com,07548805904,Nottingham,Central,2020-11-12,2024-12-17,3750,Sports,No
+CUST-1212,Sarah Jones,Consumer,sarah.jones10@email.com,07711862617,London,South,2021-09-26,2023-12-09,2281,Clothing,Yes
+CUST-1213,Robert Wilson,Consumer,robert.wilson34@email.com,07983604989,Portsmouth,South,2020-12-02,2024-04-29,1463,Home & Garden,Yes
+CUST-1214,David Evans,Corporate,david.evans48@email.com,07140709817,Plymouth,West,2021-04-12,2023-05-11,2238,Home & Garden,Yes
+CUST-1215,Michael Thompson,Consumer,michael.thompson54@email.com,07109937354,Coventry,Central,2021-08-09,2024-08-18,602,Sports,Yes
+CUST-1216,Chloe Walker,Corporate,chloe.walker26@email.com,07576270534,Bath,West,2021-04-02,2023-02-01,1245,Home & Garden,No
+CUST-1217,Chris White,Consumer,chris.white77@email.com,07221565481,Colchester,East,2021-05-08,2024-02-17,267,Electronics,Yes
+CUST-1218,Grace Martin,Consumer,grace.martin73@email.com,07429963663,Derby,Central,2020-07-27,2023-01-07,3618,Food & Grocery,Yes
+CUST-1219,Sophie Johnson,Consumer,sophie.johnson28@email.com,07380248491,Brighton,South,2022-12-20,2024-03-15,1075,Clothing,Yes
+CUST-1220,Mia Roberts,Consumer,mia.roberts34@email.com,07751388021,Brighton,South,2020-06-04,2023-01-18,1156,Clothing,Yes
+CUST-1221,Thomas Johnson,Corporate,thomas.johnson2@email.com,07845902084,Peterborough,East,2022-06-15,2024-04-07,3308,Electronics,Yes
+CUST-1222,Chloe Thomas,Consumer,chloe.thomas16@email.com,07128667748,Norwich,East,2021-05-02,2023-11-06,2549,Clothing,Yes
+CUST-1223,Sophie Taylor,Corporate,sophie.taylor34@email.com,07499552922,Birmingham,Central,2022-06-10,2024-09-11,4235,Electronics,Yes
+CUST-1224,Chloe Roberts,Home Office,chloe.roberts81@email.com,07205567041,Bath,West,2021-12-08,2023-04-24,3474,Sports,Yes
+CUST-1225,Chloe Walker,Home Office,chloe.walker59@email.com,07487546449,Southampton,South,2021-10-29,2024-12-08,2474,Sports,Yes
+CUST-1226,Hannah Jones,Consumer,hannah.jones61@email.com,07961577041,Exeter,West,2021-01-09,2024-07-17,2436,Sports,Yes
+CUST-1227,Robert Roberts,Corporate,robert.roberts32@email.com,07401409238,Coventry,Central,2021-10-03,2024-04-24,3704,Food & Grocery,Yes
+CUST-1228,Emma Evans,Corporate,emma.evans66@email.com,07353479634,Manchester,North,2022-10-01,2024-11-09,1304,Food & Grocery,Yes
+CUST-1229,David Thomas,Corporate,david.thomas54@email.com,07865484497,Portsmouth,South,2020-12-20,2023-02-17,1862,Home & Garden,Yes
+CUST-1230,Sarah Johnson,Corporate,sarah.johnson64@email.com,07565700137,Sheffield,North,2022-08-31,2023-05-18,4510,Clothing,Yes
+CUST-1231,Sarah Evans,Consumer,sarah.evans26@email.com,07149929259,Leeds,North,2020-03-19,2023-10-02,3979,Sports,Yes
+CUST-1232,David Williams,Consumer,david.williams32@email.com,07614669661,Manchester,North,2022-01-08,2023-07-19,2530,Electronics,Yes
+CUST-1233,James Robinson,Consumer,james.robinson72@email.com,07226153260,Ipswich,East,2020-11-26,2024-05-12,3147,Clothing,Yes
+CUST-1234,Alice Roberts,Consumer,alice.roberts56@email.com,07498571818,Derby,Central,2021-07-18,2024-07-10,3124,Home & Garden,No
+CUST-1235,Sarah Robinson,Corporate,sarah.robinson45@email.com,07187238761,Oxford,South,2021-10-22,2023-03-06,3287,Home & Garden,Yes
+CUST-1236,Chloe Jones,Home Office,chloe.jones9@email.com,07904418098,Cardiff,West,2021-07-12,2023-06-18,977,Home & Garden,Yes
+CUST-1237,Andrew Wood,Consumer,andrew.wood99@email.com,07127106539,Oxford,South,2022-12-18,2024-05-19,4648,Food & Grocery,Yes
+CUST-1238,Sarah Robinson,Home Office,sarah.robinson61@email.com,07508351863,Ipswich,East,2021-02-24,2023-12-15,1695,Food & Grocery,Yes
+CUST-1239,Robert Roberts,Consumer,robert.roberts56@email.com,07147511893,Brighton,South,2021-01-31,2024-10-30,1266,Electronics,Yes
+CUST-1240,Sarah Brown,Corporate,sarah.brown5@email.com,07556358460,Plymouth,West,2020-03-20,2024-10-07,3848,Clothing,No
+CUST-1241,Sarah Wilson,Home Office,sarah.wilson83@email.com,07552556550,Bath,West,2020-07-04,2024-03-20,133,Sports,Yes
+CUST-1242,Mia Smith,Corporate,mia.smith76@email.com,07876347951,Peterborough,East,2020-03-31,2023-12-11,530,Food & Grocery,Yes
+CUST-1243,Chris Thomas,Home Office,chris.thomas50@email.com,07187481671,Coventry,Central,2020-05-18,2024-10-30,357,Clothing,No
+CUST-1244,David Robinson,Corporate,david.robinson44@email.com,07441567099,Derby,Central,2020-12-20,2023-05-23,2495,Electronics,Yes
+CUST-1245,Joshua Jackson,Corporate,joshua.jackson4@email.com,07337535772,Norwich,East,2020-03-19,2024-03-20,1908,Home & Garden,Yes
+CUST-1246,Thomas Williams,Consumer,thomas.williams16@email.com,07351307265,Birmingham,Central,2022-05-02,2024-08-02,2035,Sports,Yes
+CUST-1247,Olivia Martin,Home Office,olivia.martin29@email.com,07293286552,Ipswich,East,2020-03-04,2023-10-03,3164,Home & Garden,Yes
+CUST-1248,Joshua Taylor,Home Office,joshua.taylor35@email.com,07525200595,Ipswich,East,2022-04-09,2023-11-06,2689,Clothing,No
+CUST-1249,Robert Jackson,Corporate,robert.jackson60@email.com,07408783210,Birmingham,Central,2020-08-11,2024-01-06,149,Sports,Yes
+CUST-1250,Andrew Jackson,Consumer,andrew.jackson86@email.com,07851669060,Birmingham,Central,2020-02-29,2024-03-09,812,Clothing,Yes
+CUST-1251,Thomas Smith,Home Office,thomas.smith68@email.com,07839273721,Bristol,West,2020-11-14,2024-12-13,1211,Home & Garden,No
+CUST-1252,Chloe Jones,Corporate,chloe.jones78@email.com,07501955463,Newcastle,North,2022-04-19,2024-05-14,2697,Electronics,Yes
+CUST-1253,Emma Clark,Corporate,emma.clark99@email.com,07872827788,Leeds,North,2022-07-12,2024-09-27,3452,Home & Garden,No
+CUST-1254,Grace Robinson,Corporate,grace.robinson44@email.com,07507172712,Newcastle,North,2020-02-28,2023-03-26,1160,Home & Garden,No
+CUST-1255,Robert Robinson,Consumer,robert.robinson48@email.com,07168542479,Cardiff,West,2021-12-11,2023-03-07,1109,Food & Grocery,Yes
+CUST-1256,Emma Thomas,Home Office,emma.thomas85@email.com,07399623380,Portsmouth,South,2021-01-01,2023-06-05,2351,Sports,No
+CUST-1257,Emma Evans,Consumer,emma.evans78@email.com,07380913184,Leicester,Central,2022-05-14,2024-06-24,4420,Electronics,Yes
+CUST-1258,Sophie Johnson,Home Office,sophie.johnson82@email.com,07764240554,Peterborough,East,2020-03-20,2023-02-13,3687,Clothing,Yes
+CUST-1259,Chris Taylor,Consumer,chris.taylor24@email.com,07724142648,Bristol,West,2020-08-04,2023-05-18,2839,Food & Grocery,Yes
+CUST-1260,Daniel Walker,Home Office,daniel.walker99@email.com,07813320626,Liverpool,North,2020-12-10,2024-01-20,743,Clothing,Yes
+CUST-1261,Mia Smith,Consumer,mia.smith93@email.com,07623267882,Leicester,Central,2022-08-12,2024-06-08,2765,Clothing,Yes
+CUST-1262,Grace Johnson,Consumer,grace.johnson79@email.com,07323227537,Coventry,Central,2020-12-01,2023-05-18,536,Home & Garden,Yes
+CUST-1263,Michael Lewis,Home Office,michael.lewis89@email.com,07562760509,London,South,2021-09-28,2024-05-09,69,Home & Garden,Yes
+CUST-1264,James Walker,Consumer,james.walker75@email.com,07450932121,Leeds,North,2020-03-13,2023-11-18,2539,Clothing,Yes
+CUST-1265,Alice Williams,Home Office,alice.williams98@email.com,07677319192,Leicester,Central,2020-09-23,2024-09-03,4388,Sports,Yes
+CUST-1266,James Wood,Consumer,james.wood34@email.com,07640573076,London,South,2021-08-22,2024-08-08,3396,Home & Garden,Yes
+CUST-1267,James Smith,Consumer,james.smith69@email.com,07674609648,Cardiff,West,2020-12-07,2023-02-23,498,Sports,Yes
+CUST-1268,David Thomas,Consumer,david.thomas49@email.com,07276983693,Oxford,South,2020-04-24,2023-03-23,4176,Electronics,Yes
+CUST-1269,Sarah Wood,Home Office,sarah.wood14@email.com,07934702124,Bath,West,2021-05-10,2023-06-25,3798,Home & Garden,Yes
+CUST-1270,David Williams,Home Office,david.williams3@email.com,07541539566,Plymouth,West,2022-10-28,2024-07-23,2868,Electronics,Yes
+CUST-1271,Alice Wilson,Consumer,alice.wilson20@email.com,07545815914,Exeter,West,2021-07-26,2023-01-24,4039,Electronics,No
+CUST-1272,David Wood,Consumer,david.wood87@email.com,07725996989,Sheffield,North,2022-06-30,2023-11-22,4638,Home & Garden,Yes
+CUST-1273,Mia Taylor,Corporate,mia.taylor76@email.com,07629216341,London,South,2020-05-30,2024-07-06,2285,Clothing,Yes
+CUST-1274,Ryan Davies,Consumer,ryan.davies38@email.com,07792387847,Leicester,Central,2021-05-09,2023-02-22,4966,Clothing,Yes
+CUST-1275,Mia Martin,Home Office,mia.martin14@email.com,07517962142,Leicester,Central,2022-08-16,2024-02-15,3367,Electronics,Yes
+CUST-1276,Andrew Jones,Consumer,andrew.jones74@email.com,07260162784,Leicester,Central,2020-04-11,2023-04-06,3892,Clothing,No
+CUST-1277,Thomas Johnson,Corporate,thomas.johnson15@email.com,07723452285,Nottingham,Central,2022-01-05,2024-11-15,2714,Sports,Yes
+CUST-1278,Daniel Thomas,Consumer,daniel.thomas70@email.com,07528951448,Birmingham,Central,2020-05-21,2024-10-30,2568,Electronics,No
+CUST-1279,Sophie Thompson,Consumer,sophie.thompson45@email.com,07956718014,Plymouth,West,2020-10-31,2024-05-11,232,Sports,Yes
+CUST-1280,Sophie Taylor,Home Office,sophie.taylor47@email.com,07176794850,Colchester,East,2020-11-16,2023-05-01,381,Electronics,Yes
+CUST-1281,Ryan White,Home Office,ryan.white56@email.com,07196328597,Oxford,South,2021-01-07,2023-10-07,682,Electronics,Yes
+CUST-1282,Joshua Smith,Home Office,joshua.smith11@email.com,07158718609,Southampton,South,2022-07-20,2024-04-21,755,Clothing,Yes
+CUST-1283,Ryan Wilson,Home Office,ryan.wilson47@email.com,07723494908,Ipswich,East,2022-11-13,2024-05-02,1849,Food & Grocery,Yes
+CUST-1284,Robert Thomas,Consumer,robert.thomas80@email.com,07527502930,Cambridge,East,2022-03-11,2024-07-13,1417,Clothing,Yes
+CUST-1285,Andrew Wilson,Corporate,andrew.wilson88@email.com,07958460776,Leeds,North,2022-03-11,2023-07-21,3919,Electronics,Yes
+CUST-1286,Grace Smith,Home Office,grace.smith29@email.com,07319908365,Norwich,East,2022-07-21,2024-05-21,3496,Food & Grocery,Yes
+CUST-1287,Laura Roberts,Corporate,laura.roberts47@email.com,07558467566,Bristol,West,2022-03-23,2023-09-28,1819,Electronics,Yes
+CUST-1288,Mia Robinson,Consumer,mia.robinson61@email.com,07426566067,Leeds,North,2022-06-27,2023-11-14,580,Home & Garden,Yes
+CUST-1289,Alice Brown,Corporate,alice.brown45@email.com,07307919789,Southampton,South,2020-07-19,2024-11-26,4988,Sports,Yes
+CUST-1290,Chris Smith,Home Office,chris.smith43@email.com,07664778037,Peterborough,East,2020-05-14,2024-11-13,3382,Sports,Yes
+CUST-1291,Andrew Davies,Corporate,andrew.davies22@email.com,07992655477,Coventry,Central,2022-01-08,2023-09-20,1550,Clothing,Yes
+CUST-1292,Daniel Jones,Home Office,daniel.jones10@email.com,07239269970,Leeds,North,2022-12-03,2024-08-20,4755,Home & Garden,Yes
+CUST-1293,Emma Johnson,Consumer,emma.johnson20@email.com,07958804464,Nottingham,Central,2020-03-15,2023-04-20,2022,Food & Grocery,Yes
+CUST-1294,David Clark,Home Office,david.clark39@email.com,07141227456,Newcastle,North,2020-04-24,2023-03-05,3619,Sports,Yes
+CUST-1295,Ryan Davies,Consumer,ryan.davies38@email.com,07679488070,Birmingham,Central,2022-11-09,2023-07-27,793,Electronics,Yes
+CUST-1296,Andrew Smith,Home Office,andrew.smith9@email.com,07175889321,Nottingham,Central,2020-12-28,2023-10-31,3392,Food & Grocery,Yes
+CUST-1297,Grace Wood,Consumer,grace.wood78@email.com,07583386205,Peterborough,East,2022-08-06,2024-02-29,3188,Sports,Yes
+CUST-1298,David Taylor,Consumer,david.taylor10@email.com,07763714386,Sheffield,North,2022-09-21,2024-07-21,1116,Sports,Yes
+CUST-1299,Joshua Thomas,Consumer,joshua.thomas69@email.com,07611360037,Sheffield,North,2022-03-16,2023-10-25,2466,Home & Garden,No
