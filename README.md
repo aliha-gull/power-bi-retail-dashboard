@@ -24,7 +24,6 @@ for comprehensive retail analytics.
 - Microsoft Power BI Desktop
 - Power Query (ETL & data cleaning)
 - DAX (Data Analysis Expressions)
-- Python (forecast data generation)
 
 ## Key Business Insights
 - South region generates highest revenue (28% of total)
